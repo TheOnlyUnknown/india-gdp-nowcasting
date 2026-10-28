@@ -60,7 +60,7 @@ india-gdp-nowcast/
 
 ## Status
 - [x] Phase 1 — Data collection & stationarity
-- [ ] Phase 2 — Mixed-frequency stacking
+- [x] Phase 2 — Mixed-frequency stacking
 - [ ] Phase 3 — Baseline VAR
 - [ ] Phase 4 — Bayesian estimation
 - [ ] Phase 5 — Conditional forecasting (nowcasting engine)
